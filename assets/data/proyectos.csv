@@ -1,0 +1,23 @@
+nombre,nº viviendas,locales,descripcion,categoria,municipio,dirección,provincia,latitud,longitud,estudio,tipo,bim,protección,promotora
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Matadero,0,1,Concurso de ideas para la rehabilitación del antiguo matadero de aranjuez,Concurso,Aranjuez,"28300 Aranjuez, Madrid",Madrid,40.04385,-3.59426,DORADO Arquitectura,Terciario,Si,,Ayto. Aranjuez
+Plaza de Venecia 2,0,1,Proyecto de acondicionamiento de una vivienda para su uso como clínica oftalmológica en la Plaza de Venecia,Reforma,Madrid,28028 Madrid,Madrid,40.43003,-3.66674,DORADO Arquitectura,Terciario,Si,,Particular
+Abetos 11,1,0,"Ampliación y reforma de una vivienda unifamiliar en la colonia Monteclaro de Pozuelo de Alarcón, Madrid.",Reforma,Pozuelo de Alarcón,"28223 Pozuelo de Alarcón, Madrid",Madrid,40.43250,-3.81657,DORADO Arquitectura,Residencial,Si,,Particular
+Acacias 67,1,0,"Ampliación y reforma de una vivienda unifamiliar en la colonia Monteclaro de Pozuelo de Alarcón, Madrid.",Reforma,Pozuelo de Alarcón,"28223 Pozuelo de Alarcón, Madrid",Madrid,40.43250,-3.81657,DORADO Arquitectura,Residencial,Si,,Particular
+Gral Diaz Porlier ,1,0,"Reforma integral de una vivienda en la calle General Diaz Porlier, Madrid",Reforma,Madrid,28006 Madrid,Madrid,40.43568,-3.67910,DORADO Arquitectura,Residencial,Si,,Particular
+Quintana 12,2,0,"Proyecto de intensificación de una viviendas en la Calle Quintana, Madrid",Reforma,Madrid,28008 Madrid,Madrid,40.42687,-3.71926,DORADO Arquitectura,Residencial,Si,,Particular
+Delicias,1,0,"Reforma integral de una vivienda en la calle Delicias, Madrid",Reforma,Madrid,28045 Madrid,Madrid,40.39718,-3.69316,DORADO Arquitectura,Residencial,Si,,Particular
+Gral Arrando 9,0,1,Proyecto de acondicionamiento de un local comercial para su uso como oficinas en la calle General Arrando,Reforma,Madrid,28010 Madrid,Madrid,40.43299,-3.69922,DORADO Arquitectura,Terciario,No,,Particular
+Reina Cristina 21,1,0,"Reforma integral de una vivienda en el Paseo de la Reina Cristina, Madrid",Reforma,Madrid,28014 Madrid,Madrid,40.41359,-3.69400,DORADO Arquitectura,Residencial,Si,,Particular
+Anunciación 6,1,0,"Reforma integral de una vivienda en la calle Anunciación, Madrid",Reforma,Madrid,28009 Madrid,Madrid,40.41877,-3.67273,GP17 Arquitectos,Residencial,Si,,Particular
+Zelina,144,0,"Dos edificios de 144 viviendas, garaje, trasteros, zonas comunes y piscina en el distrito Zeta de Málaga.",Edificación,Málaga,29006 Málaga,Málaga,36.70815,-4.46353,GP17 Arquitectos,Residencial,Sí,,Pryconsa
+Estela,100,4,"Dos edificios de 100 viviendas, garaje, trasteros, piscina y locales comerciales en parcela 1 APD/6, Cornisa de San Agustín, Alicante.",Edificación,Alicante,03005 Alicante,Alicante,38.35149,-0.49978,GP17 Arquitectos,Residencial,Sí,,AEDAS Homes
+Boreal,70,0,"Un edificio de 70 viviendas, garaje, trasteros, zonas comunes y piscina en Los Cubos, Murcia.",Edificación,Murcia,"30110 Churra, Murcia",Murcia,38.03179,-1.13787,GP17 Arquitectos,Residencial,Sí,,Metrovacesa
+Botania,88,0,"Un edificio de 88 viviendas, garaje, trasteros, zonas comunes y piscina en Los Cubos, Murcia.",Edificación,Murcia,"30110 Churra, Murcia",Murcia,38.03179,-1.13787,GP17 Arquitectos,Residencial,Sí,,Metrovacesa
+Palacio Sanchez Villa,5,0,Rehabilitación integral del palacio Sanchez Villa y su jardín.,Reforma,Llanes,"33500 Llanes, Asturias",Asturias,43.41961,-4.75349,DORADO Arquitectura,Residencial,Si,,Entera
+Kyrenia,147,1,"Dos edificios de 147 viviendas, garaje, trasteros, zonas comunes, piscina y local comercial en Los Berrocales, Madrid",Edificación,Madrid,28031 Madrid,Madrid,40.37845,-3.62326,GP17 Arquitectos,Residencial,Si,,AEDAS Homes
+Llanes,18,0,"Un edificio de 18 viviendas, garaje y trasteros en Llanes, Asturias.",Edificación,Llanes,"33500 Llanes, Asturias",Asturias,43.41961,-4.75349,DORADO Arquitectura,Residencial,Si,,Entera
+Loeches,10,0,"Cinco edificios de 10 viviendas pareadas en Loeches, Madrid.",Edificación,Madrid,"28890 Loeches, Madrid",Madrid,40.38907,-3.41496,DORADO Arquitectura,Residencial,Si,,Entera
+Las Cimas de Villalbilla,112,0,"Dos edificios de 112 viviendas VPPL, garaje, trasteros, zonas comunes y piscina en la parcela RC-2 de Villalbilla, Madrid ",Edificación,Villalbilla,"28810 Villalbilla, Madrid",Madrid,40.44374,-3.35358,DORADO Arquitectura,Residencial,Sí,VPPL,Entera
+Playa Loredo,24,0,"Dos edificios de 24 viviendas, garaje y zonas comunes en Loredo, Ribamontán al Mar.",Edificación,Ribamontán al Mar,"39140 Somo, Cantabria",Cantabria,43.45419,-3.74097,DORADO Arquitectura,Residencial,Sí,,Entera

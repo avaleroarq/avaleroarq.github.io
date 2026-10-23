@@ -1,0 +1,17 @@
+# Borradores del CV (no se publican)
+assets/cv/borradores/
+
+# Ajustes locales de Claude Code
+.claude/settings.local.json
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Originales de imágenes (solo se publican las versiones optimizadas)
+assets/img/originales/
+
+# Notas de trabajo (no se publican)
+CLAUDE.md
+.claude/
